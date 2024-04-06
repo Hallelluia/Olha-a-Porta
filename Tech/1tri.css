@@ -1,0 +1,37 @@
+body{
+    background-image: url(v627-aew-21-technologybackground.jpg);
+    background-size: cover;
+}
+
+.atividade-h{
+    margin-bottom: 10em;
+    width: 60vw;
+    height: 40vw;
+    border-radius: 30px;
+    position: relative;
+    left: 34vh;
+    top: 4em;
+    background-image: url(wallpaperflare.com_wallpaper\ \(3\).jpg);
+    background-size: cover;
+}
+
+.atividade-h img{
+    border-radius: 20px;
+    width: 80%;
+    margin-left: 7em;
+ }
+
+ .HH2{
+    width: 80%;
+    margin-left: 12%;
+    font-family:Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    }
+
+.HH2 p{
+margin-bottom: 10px;
+font-family: fantasy;
+font-size: 20px;
+font-weight: 100;
+
+}
