@@ -29,8 +29,7 @@ body{
     height: 0vh;
     background-color: black;
     background-image: url(3dimg.jpg);
-    background-size: 100%;
-    background-repeat: no-repeat;
+    background-size: cover;
     
     
 }

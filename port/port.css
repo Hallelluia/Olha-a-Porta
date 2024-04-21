@@ -10,9 +10,7 @@ body{
     justify-content: center;
     align-items: center;
     background-image: url(../img/fundo-port.jpg);
-    background-size: 100%;
-    
-    
+    background-size: cover;
 }
 
 img{
