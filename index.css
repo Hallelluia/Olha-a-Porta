@@ -60,6 +60,7 @@ body{
 .imgmeu{
 margin-left: 110px;
 margin-top:65px;
+border-radius: 10px;
 height: 500px;
 height: 500px;
 transform: scale(1.05);
@@ -75,7 +76,7 @@ h3{
     text-align: left;
     color: aliceblue;
     margin-left: 110px;
-    margin-top: 5px;
+    margin-top:43px;
     font-family: Glitch;
     font-weight: lighter;
     font-size: 30px;

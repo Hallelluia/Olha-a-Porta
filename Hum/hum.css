@@ -18,7 +18,7 @@
 
 
 body{
-    background-image: url(Dream\ Wallpaper\ Antique\ Map.jpg);
+    background-image: url(../img/fundo-hum.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
 
@@ -62,7 +62,7 @@ body{
         overflow: hidden;
         outline: none;
         /* background */
-        background: url("button.png") no-repeat no-repeat;
+        background: url("../img/button.png") no-repeat no-repeat;
         background-clip: padding-box;
         background-origin: padding-box;
         background-position: center;
@@ -84,12 +84,12 @@ body{
       /* button hover */
       .rpgui-button.hover,
       .rpgui-button:hover {
-        background-image: url("button-hover.png"); }
+        background-image: url("../img/button-hover.png"); }
       
       /* button clicked */
       .rpgui-button.down,
       .rpgui-button:active {
-        background-image: url("button-down.png"); }
+        background-image: url("../img/button-down.png"); }
       
 
 

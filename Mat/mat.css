@@ -3,7 +3,7 @@
     src: url(../fonts/Doctor\ Glitch.otf); 
 }
 body{
-    background-image: url(flaeire.jpg);
+    background-image: url(../img/fundo-mat.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     
