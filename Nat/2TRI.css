@@ -46,7 +46,9 @@ body{
 
     
 
-.HH2 p{
+.HH2 p{    
+    
+    width: 100%;
     margin-top: 2em;
     font-family: cursive;
     font-size: 20px;
@@ -73,5 +75,10 @@ body{
     font-weight: 80;
     text-align: justify;
 
+}
+
+#doc1{
+    width: 100%;
+    margin-bottom: 3%;
 }
 
